@@ -1,4 +1,4 @@
-## Oiii eu sou o VitorVargass, trabalho com Front-end 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Vargas;I%27m+18+years+old;I%27m+from+Curitiba,+PR;I+am+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/VitorVargasss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorVargass&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
